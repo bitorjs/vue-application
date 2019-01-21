@@ -1,0 +1,25 @@
+{
+  "name": "@bitores/vue",
+  "version": "1.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitorjs/vue-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitorjs/vue-application/issues"
+  },
+  "homepage": "https://github.com/bitorjs/vue-application#readme",
+  "dependencies": {
+    "@bitores/application": "^1.0.3",
+    "@bitores/decorators": "^1.0.1",
+    "vue": "^2.5.22",
+    "vuex": "^3.1.0"
+  }
+}
